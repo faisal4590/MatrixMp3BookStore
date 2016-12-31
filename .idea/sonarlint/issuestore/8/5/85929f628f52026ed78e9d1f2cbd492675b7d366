@@ -1,0 +1,7 @@
+
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+/	php:S2010"Replace "or" with "||".(¿İøÈúÿÿÿÿ
+6php:S125"Remove this commented out code.(ØÕ¸ãüÿÿÿÿ
+/	php:S2010"Replace "or" with "||".(¦ã½øÿÿÿÿ
+6php:S125"Remove this commented out code.(ù±ª÷øÿÿÿÿ
+vphp:S134"_Refactor this code to not nest more than 4 "if", "for", "while", "switch" and "try" statements.(Ûšëàûÿÿÿÿ

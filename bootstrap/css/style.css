@@ -1,0 +1,16 @@
+.container{
+    min-height:200px;
+}
+.myDiv{
+    background: #FFB179;
+
+}
+.myDiv p, .myDiv h2{
+    padding: 10px;
+}
+.myDefinedSubscripeStyle {
+    padding-right: 40px;
+}
+.well:last-of-type{/*changing the form contact well background*/
+    background: #DE5347;
+}
